@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "287326432530",
+    "firebase_url": "https://sheetgenionic.firebaseio.com",
+    "project_id": "sheetgenionic",
+    "storage_bucket": "sheetgenionic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287326432530:android:764d2cb7da3280eb",
+        "android_client_info": {
+          "package_name": "io.ionic.starter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287326432530-qub55uei38qad795lub8m5d3kdd154kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd7kfTyHycfcIX0O5NOeMA0NGL4SHJt6k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
