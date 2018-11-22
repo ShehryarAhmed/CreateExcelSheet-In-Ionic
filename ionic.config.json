@@ -1,0 +1,7 @@
+{
+  "name": "excel",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
